@@ -17,7 +17,7 @@ p($result);
 $data = data_process($result);
 p($data);
 //save_data($conn,$data);
-$testStr = 'this is some git test';
+$testStr = 'this is some git test aignine';
 
 
 
